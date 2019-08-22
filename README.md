@@ -31,4 +31,4 @@
 
 * Do you have internet hardware that could be donated?
 * Would you like to give a talk in the class? What's it like to do your job?
-* Do you know places that might make a good visit? 
+* Do you know places that might make a good visit? Where are good places to look at infrastructure?
