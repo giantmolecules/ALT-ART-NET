@@ -4,8 +4,8 @@
 
 ### GOAL
 
-To create an 'autonomous' artist-centric network where most essential services will be self-hosted to demonstrate that a small community has agency in providing it's own internetworking infrastructure.
-With the aid of some single-board computers and networking equipment such as wireless- and wired-routers, we will experiment with different network topologies and explore their behaviors
+* To create an 'autonomous' artist-centric network where most essential services will be self-hosted to demonstrate that a small community has agency in providing it's own internetworking infrastructure.
+* With the aid of some single-board computers and networking equipment such as wireless- and wired-routers, we will experiment with different network topologies and explore their behaviors
 Students will collaboratively edit a mission statement or manifesto that provides conceptual and operational guidance for the network
 How can artists carve out a space to self-host a community online?
 
@@ -21,6 +21,7 @@ We will run a DNS service that will provide resolution of the students' domain n
 
 I understand that the security and integrity of the saic network is the most important consideration.
 Network needs a route to WAN: what is the best way to accomplish this?
+WAN needed for updates, installs, general administration
 Do we even connect? Is there another path to WAN?
 A goal is to have the network available for editing outside of class meetings, so basically always on and accessible to WAN
 How does our network and that of SAIC co-exist?
