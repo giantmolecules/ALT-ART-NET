@@ -26,3 +26,9 @@
 * A goal is to have the network available for editing outside of class meetings, so basically always on and accessible to WAN
 * How does our network and that of SAIC co-exist?
 * There should be public access to the network, so others can explore the content.
+
+### QUESTIONS
+
+* Do you have internet hardware that could be donated?
+* Would you like to give a talk in the class? What's it like to do your job?
+* Do you know places that might make a good visit? 
