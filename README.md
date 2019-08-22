@@ -1,6 +1,6 @@
 # ALT//ART//NET
 
-## A Network by and for artists...
+## A Network By and For Artists...
 
 ### GOAL
 
