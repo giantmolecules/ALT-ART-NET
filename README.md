@@ -8,6 +8,7 @@
 * With the aid of some single-board computers and networking equipment such as wireless- and wired-routers, we will experiment with different network topologies and explore their behaviors
 * Students will collaboratively edit a mission statement or manifesto that provides conceptual and operational guidance for the network
 * How can artists carve out a space to self-host a community online?
+* Our network is a platform for exploring self-hosting: Our data, our rules, our network.
 
 ### STUDENT PARTICIPATION
 
