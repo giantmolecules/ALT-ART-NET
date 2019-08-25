@@ -21,6 +21,7 @@
 ### INTERNETWORKING
 
 * I understand that the security and integrity of the saic network is the most important consideration.
+* All Raspberry Pi's will run headless, and access to administration is via SSH.
 * Network needs a route to WAN: what is the best way to accomplish this?
 * WAN needed for updates, installs, general administration
 * Do we even connect? Is there another path to WAN?
